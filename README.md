@@ -1,16 +1,179 @@
-## Hi there 👋
+<!-- Header banner -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=220&section=header&text=Aditya%20Agrawal&fontColor=e6edf3&fontSize=54&fontAlignY=38&desc=backend%20systems%20%7C%20distributed%20pipelines%20%7C%20competitive%20programming&descAlignY=60&descSize=16" alt="header" />
 
-<!--
-**adityacosmos24/adityacosmos24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://github.com/adityacosmos24">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=SDE+Intern+%40+Brick+%26+Bolt;Kafka+pipelines%2C+Postgres+locks%2C+Spring+Boot;Knight+on+LeetCode+%7C+Specialist+on+Codeforces;CS+undergrad+%40+IIIT+Bhagalpur+(CGPA+8.65)" alt="typing" />
+  </a>
 
-Here are some ideas to get you started:
+  <br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  <a href="https://www.linkedin.com/in/aditya-agrawal-6b309a282/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" /></a>
+  <a href="mailto:adityacosmos24@gmail.com"><img src="https://img.shields.io/badge/Mail-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" /></a>
+  <a href="https://leetcode.com/u/Space11/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=58a6ff" /></a>
+  <a href="https://codeforces.com/profile/space"><img src="https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=58a6ff" /></a>
+  <a href="https://www.codechef.com/users/adityacosmos37"><img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=58a6ff" /></a>
+  <img src="https://komarev.com/ghpvc/?username=adityacosmos24&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
+</div>
+
+<br/>
+
+## whoami
+
+```bash
+$ cat about.yml
+name:      Aditya Agrawal
+handle:    adityacosmos24
+location:  Bengaluru, India
+role:      SDE Intern, Brick & Bolt
+school:    IIIT Bhagalpur, B.Tech CSE '27
+focus:     [backend, event-driven systems, concurrency, databases]
+currently: LLM powered transcript pipelines, lead assignment under row-level locks
+off_duty:  Codeforces rounds, mentoring, open source maintenance
+```
+
+I like backend problems where correctness under load is the whole point: ordering guarantees in Kafka, race conditions in concurrent writes, retries that do not melt downstream services. Outside of work I run a coding club and spend too much time on contest ladders.
+
+<br/>
+
+## Pac-Man vs my contribution graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityacosmos24/adityacosmos24/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityacosmos24/adityacosmos24/output/pacman-contribution-graph.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adityacosmos24/adityacosmos24/output/pacman-contribution-graph.svg" />
+  </picture>
+</div>
+
+<br/>
+
+## Experience
+
+| Where | Role | When | What I worked on |
+|:--|:--|:--|:--|
+| **Brick & Bolt** | SDE Intern | Aug 2026 to present | LLM driven pipeline that parses Google Meet transcripts and quotation data into structured output, feeding floor plan generation and interactive 3D walkthroughs. Lead assignment service in Spring Boot with round-robin and random-match modes, PostgreSQL transactions and row-level locking, split by Residential and Commercial architects. |
+| **Aditya Birla Fashion and Retail (TMRW)** | SDE Intern | May 2026 to Aug 2026 | Kafka inventory pipeline publishing 10K+ daily updates with tenant based partitioning and per-tenant ordering. Multi-tenant admin API (Nucleus): 5 controllers, 20+ endpoints, batched concurrency with generators, `Promise.allSettled` and exponential backoff. API failures down 85%. |
+| **Ask Senior** | Full Stack Intern | Dec 2025 to Feb 2026 | JWT refresh token auth and authorization middleware in Node and Express. Moved 25+ endpoints from raw SQL to Prisma: faster development by 20%, injection exposure down 30%. |
+
+<br/>
+
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,java,py,cpp,js,ts,postgres,mongodb,mysql,redis&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=nestjs,spring,express,react,nextjs,prisma,kafka,docker,git,linux&theme=dark" />
+
+</div>
+
+```text
+languages    Go, Java, Python, C/C++, JavaScript, TypeScript, SQL
+backend      NestJS, Spring Boot, Express.js, tRPC, REST APIs
+data         PostgreSQL, MongoDB, MariaDB, Redis, Prisma, TypeORM, Mongoose
+infra        Kafka, Docker, Inngest
+frontend     React, Next.js, React Flow
+fundamentals DSA, OS, OOP, DBMS, Computer Networks (HTTP/HTTPS, TCP/IP)
+```
+
+<br/>
+
+## GitHub stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adityacosmos24&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityacosmos24&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityacosmos24&theme=github-dark-blue&hide_border=true&background=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityacosmos24&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityacosmos24&bg_color=0d1117&color=58a6ff&line=1f6feb&point=e6edf3&area=true&hide_border=true" />
+</div>
+
+<br/>
+
+## Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Notification Service
+`NestJS` `Kafka` `MongoDB` `MariaDB` `TypeORM` `Mongoose` `Docker`
+
+Event-driven notifications for order lifecycle events. Kafka publish/consume flow, email and SMS delivery, handler-processor layout built on Strategy and Factory patterns. Tenant level channel config lives in MongoDB, order and refund enrichment comes from MariaDB, which drives dynamic routing and quantity based notification logic.
+
+<a href="https://github.com/adityacosmos24?tab=repositories&q=notification">source</a>
+
+  </td>
+  <td width="50%" valign="top">
+
+### P8P
+`Next.js 16` `React Flow` `Prisma` `tRPC` `Inngest` `Neon` `Polar` `OpenAI`
+
+Workflow automation platform with a drag-and-drop React Flow canvas: 6+ trigger nodes, AI integrations, HTTP actions and live execution tracking, exercised across 100+ test workflows. Auth, subscription logic and encrypted credential storage, with 500+ concurrent background jobs on Inngest.
+
+<a href="https://github.com/adityacosmos24?tab=repositories&q=p8p">source</a>
+
+  </td>
+  </tr>
+</table>
+
+### Pinned
+
+<div align="center">
+  <a href="https://github.com/adityacosmos24/Adhyaay-Frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityacosmos24&repo=Adhyaay-Frontend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" /></a>
+  <a href="https://github.com/adityacosmos24/convocation-iiitbh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityacosmos24&repo=convocation-iiitbh&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" /></a>
+  <a href="https://github.com/adityacosmos24/EduSphere"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityacosmos24&repo=EduSphere&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" /></a>
+  <a href="https://github.com/adityacosmos24/RBAC-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityacosmos24&repo=RBAC-1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" /></a>
+</div>
+
+<br/>
+
+## Open source
+
+```text
+maintainer       19 contributors, 56 PR reviews
+hacktoberfest    9 merged pull requests, 15+ issues
+orgs             OPCODE-Open-Spring-Fest (Opcode, IIIT Bhagalpur)
+```
+
+<!-- Add your maintained project here, for example:
+<a href="https://github.com/adityacosmos24/YOUR-REPO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adityacosmos24&repo=YOUR-REPO&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" /></a>
 -->
+
+Recent merged pull requests:
+[view all on GitHub](https://github.com/pulls?q=is%3Apr+author%3Aadityacosmos24+is%3Amerged+-user%3Aadityacosmos24)
+
+<br/>
+
+## Competitive programming
+
+<div align="center">
+  <img height="180" src="https://leetcard.jacoblin.cool/Space11?theme=dark&font=Fira%20Code&ext=heatmap" />
+</div>
+
+| Platform | Handle | Rank | Peak rating | Solved |
+|:--|:--|:--|:--|:--|
+| LeetCode | [Space11](https://leetcode.com/u/Space11/) | Knight | 1854 | 500+ |
+| Codeforces | [space](https://codeforces.com/profile/space) | Specialist | 1407 | 500+ |
+| CodeChef | [adityacosmos37](https://www.codechef.com/users/adityacosmos37) | 3 Star | 1600 | 350+ |
+
+<br/>
+
+## Community
+
+Club Lead, **PyC Coding Club, IIIT Bhagalpur** (Jul 2025 to present). Mentoring 500+ students in competitive programming and DSA. Ran 15+ nationwide contests with 3,000+ participants.
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=110&section=footer" alt="footer" />
+</div>
