@@ -3,7 +3,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=220&section=header&text=Aditya%20Agrawal&fontColor=e6edf3&fontSize=54&fontAlignY=38&desc=backend%20systems%20%7C%20distributed%20pipelines%20%7C%20competitive%20programming&descAlignY=60&descSize=16" alt="header" />
 
   <a href="https://github.com/adityacosmos24">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=SDE+Intern+%40+Brick+%26+Bolt;Kafka+pipelines%2C+Postgres+locks%2C+Spring+Boot;Knight+on+LeetCode+%7C+Specialist+on+Codeforces;CS+undergrad+%40+IIIT+Bhagalpur+(CGPA+8.65)" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=SDE+Intern+%40+Brick+%26+Bolt;Kafka+pipelines%2C+Postgres+locks%2C+Spring+Boot;Knight+on+LeetCode+%7C+Specialist+on+Codeforces;CS+undergrad+%40+IIIT+Bhagalpur" alt="typing" />
   </a>
 
   <br/><br/>
